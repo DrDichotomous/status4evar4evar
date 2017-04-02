@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "Status4Evar4Evar"
+  },
+  "extensionDescription": {
+    "message": "Simple Status4Evar-like demo WebExtension"
+  },
+  "numDownloads": {
+    "message": "$1 active download(s)"
+  },
+  "connectingTo": {
+    "message": "Connecting to $1..."
+  },
+  "waitingFor": {
+    "message": "Waiting for $1..."
+  },
+  "downloadingFrom": {
+    "message": "Transferring data from $1..."
+  },
+  "redirectingTo": {
+    "message": "Redirecting to $1..."
+  },
+  "authenticating": {
+    "message": "Authentication requested by $1..."
+  }
+}
